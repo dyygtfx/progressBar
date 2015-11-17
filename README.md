@@ -1,2 +1,2 @@
-# loadingBar.js
-a loading bar for javascript
+# progressBar
+a progress loading bar for javascript
